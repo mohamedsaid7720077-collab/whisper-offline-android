@@ -4,6 +4,7 @@
     // لمزيد من المعلومات، تفضل بزيارة: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
         {
             "request": "launch",
             "name": "Launch Program",
